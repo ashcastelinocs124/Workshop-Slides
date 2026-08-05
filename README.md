@@ -9,8 +9,16 @@ A collection of presentation slides from workshops focused on **Artificial Intel
 ```
 Workshop-Slides/
 ├── AI/
-│   ├── Agentic_Coding_Workshop.pdf
-│   └── MedAgent Presentation - FINAL.pdf
+│   ├── education/
+│   │   └── context_to_graph_engineering.pdf
+│   └── workshop/
+│       ├── Agentic_Coding_Workshop.pdf
+│       ├── Agentic-AI-UIUC-Workshop.pdf
+│       ├── evolution-of-ai-agents-rl.pdf
+│       ├── Gies_Buildathon_Opening_Ceremony.pdf
+│       ├── Project-CKM_Capital.pdf
+│       ├── Project-Reserv-Pitch.pdf
+│       └── Research-Paper-MedAgent .pdf
 └── finance/
     ├── MIA Lecture Complete Lecture Module.pptx.pdf
     └── Workshop_Presentation.pptx.pdf
@@ -21,7 +29,7 @@ Workshop-Slides/
 ## 🤖 AI Workshops
 
 ### 1. Agentic Coding Workshop (2026)
-**File:** [`AI/Agentic_Coding_Workshop.pdf`](./AI/Agentic_Coding_Workshop.pdf) · 42 slides
+**File:** [`AI/workshop/Agentic_Coding_Workshop.pdf`](./AI/workshop/Agentic_Coding_Workshop.pdf) · 42 slides
 
 A hands-on workshop on **agentic coding** — the practice of building AI agents that can plan, act, self-check, and retry in order to automate real software workflows.
 
@@ -35,7 +43,7 @@ A hands-on workshop on **agentic coding** — the practice of building AI agents
 ---
 
 ### 2. MedAgent — Trustworthy Personalized Consumer Health Search (SIEDS 2026)
-**File:** [`AI/MedAgent Presentation - FINAL.pdf`](./AI/MedAgent%20Presentation%20-%20FINAL.pdf)
+**File:** [`AI/workshop/Research-Paper-MedAgent .pdf`](./AI/workshop/Research-Paper-MedAgent%20.pdf)
 
 A research presentation submitted to **SIEDS 2026** introducing **MedAgent**, a multi-agent AI system designed to solve the problem of untrustworthy, generic, and hard-to-understand consumer health information online.
 
