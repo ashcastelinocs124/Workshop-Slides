@@ -26,6 +26,10 @@ Workshop-Slides/
 │       ├── Research-Paper-MedAgent .pdf
 │       └── Venture-Voice-to-Viva-BADM372-lecture.pdf
 └── finance/
+    ├── market-update/                 # Weekly Substack market updates
+    │   ├── README.md
+    │   ├── llm-public-markets.pdf
+    │   └── Weekly Market Update — Sept 18, 2026.pdf
     ├── MIA Lecture Complete Lecture Module.pptx.pdf
     └── Workshop_Presentation.pptx.pdf
 ```
@@ -146,11 +150,22 @@ A full-semester lecture guide from the **Macro Investing Association (MIA)**, an
 
 ---
 
+### 5. Market Update — Weekly Substack Decks
+**Folder:** [`finance/market-update/`](./finance/market-update)
+
+Slides for my **weekly Substack market updates** on global macro, markets, and AI. New decks are added each week.
+
+- [`Weekly Market Update — Sept 18, 2026.pdf`](./finance/market-update/Weekly%20Market%20Update%20—%20Sept%2018,%202026.pdf) · 28 slides — central banks hiking into $100 oil; equities, global rates, FX, commodities, Bitcoin, Japan, AI, and the Anthropic IPO
+- [`llm-public-markets.pdf`](./finance/market-update/llm-public-markets.pdf) · 55 slides — **How LLMs Became a Capital Markets Story**: how LLMs work, why better models need far more capital, and how debt and equity markets now shape the AI buildout
+
+---
+
 ## 🚀 Getting Started
 
 Browse the slides by navigating into the relevant folder:
 - [`/AI`](./AI) — Artificial Intelligence workshop materials
 - [`/AI/education/workshop-lecture`](./AI/education/workshop-lecture) — Gies MSBA workshop series on agents, ML, and finance
 - [`/finance`](./finance) — Finance workshop materials
+- [`/finance/market-update`](./finance/market-update) — Weekly Substack market update decks
 
 All slides are provided as PDF files and can be opened with any standard PDF viewer.
