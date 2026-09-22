@@ -30,8 +30,10 @@ Workshop-Slides/
     │   ├── README.md
     │   ├── llm-public-markets.pdf
     │   └── Weekly Market Update — Sept 18, 2026.pdf
-    ├── MIA Lecture Complete Lecture Module.pptx.pdf
-    └── Workshop_Presentation.pptx.pdf
+    ├── club-education/
+    │   └── MIA Lecture Complete Lecture Module.pptx.pdf
+    └── workshop/
+        └── Workshop_Presentation.pptx.pdf
 ```
 
 ---
@@ -104,7 +106,7 @@ A nine-session workshop series taught for the Gies MSBA program, taking students
 ## 💰 Finance Workshops
 
 ### 3. Overview of Global Financial Markets
-**File:** [`finance/Workshop_Presentation.pptx.pdf`](./finance/Workshop_Presentation.pptx.pdf)
+**File:** [`finance/workshop/Workshop_Presentation.pptx.pdf`](./finance/workshop/Workshop_Presentation.pptx.pdf)
 
 A comprehensive introductory workshop on **global financial markets**, covering macro trends, portfolio construction, and key concepts for investors navigating today's environment.
 
@@ -124,7 +126,7 @@ A comprehensive introductory workshop on **global financial markets**, covering 
 ---
 
 ### 4. Macro Investing Association (MIA) — Complete Lecture Module
-**File:** [`finance/MIA Lecture Complete Lecture Module.pptx.pdf`](./finance/MIA%20Lecture%20Complete%20Lecture%20Module.pptx.pdf)
+**File:** [`finance/club-education/MIA Lecture Complete Lecture Module.pptx.pdf`](./finance/club-education/MIA%20Lecture%20Complete%20Lecture%20Module.pptx.pdf)
 
 A full-semester lecture guide from the **Macro Investing Association (MIA)**, an investment club focused on investment research, financial analysis, and macroeconomic strategy across multiple asset classes. Designed to take analysts from beginner to portfolio manager level.
 
