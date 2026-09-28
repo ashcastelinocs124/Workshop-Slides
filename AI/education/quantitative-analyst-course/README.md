@@ -49,7 +49,17 @@ Decks for later chapters are added here as each session is delivered.
 
 ---
 
+## Videos
+
+Recorded sessions from the series on YouTube:
+
+- [Recording 1](https://www.youtube.com/watch?v=6wJaIfLtamU)
+- [Recording 2](https://www.youtube.com/watch?v=70fGo-DmbZE)
+- [Recording 3](https://www.youtube.com/watch?v=TuWWd335S1c)
+
+---
+
 ## Related
 
-- [`../`](../) — the standalone **AI Engineering Education Series** decks (prompt → context → harness → loop → graph)
-- [`../../../finance`](../../../finance) — macro investing and global markets lectures that complement Part IV
+- [`../personal-education/`](../personal-education/) — the standalone **AI Engineering Education Series** decks (prompt → context → harness → loop → graph)
+- [`../../../Finance`](../../../Finance) — macro investing and global markets lectures that complement Part IV

@@ -13,7 +13,8 @@ Workshop-Slides/
 │   │   ├── README.md
 │   │   └── ARC Research AI Update — Sept 19–25, 2026.pdf
 │   ├── education/
-│   │   ├── personal-education/
+│   │   ├── personal-education/        # Slides from my personal YouTube videos on AI and agents
+│   │   │   ├── README.md
 │   │   │   ├── Education-Series-2- from-prompt-to-agent.pdf
 │   │   │   └── prompt_to_graph_engineering.pdf
 │   │   └── quantitative-analyst-course/   # Course I built for Gies MSBA students: AI, ML & Financial Markets
