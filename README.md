@@ -1,6 +1,6 @@
 # Workshop Slides
 
-A collection of presentation slides from workshops focused on **Artificial Intelligence**, **Machine Learning**, and **Finance**. These materials were created and delivered as educational workshops covering practical AI development techniques and real-world macroeconomic investing strategies.
+Slides from my work teaching and presenting on **Artificial Intelligence**, **Machine Learning**, and **Finance**: workshops and talks I have been invited to give on AI and markets, courses and education series I built, my weekly Substack updates on the AI landscape and markets, and lectures from the Macro Investing Association, the club I founded and led at UIUC.
 
 ---
 
@@ -50,8 +50,10 @@ Workshop-Slides/
 
 ## AI Workshops
 
+Workshops and talks I have been invited to give on AI and trends in AI. Full list with summaries: [`AI/public-workshop/README.md`](./AI/public-workshop/README.md).
+
 ### 1. Agentic Coding Workshop (2026)
-**File:** [`AI/public-workshop/Agentic_Coding_Workshop.pdf`](./AI/public-workshop/Agentic_Coding_Workshop.pdf) · 42 slides
+**File:** [`AI/public-workshop/Agentic_Coding_Workshop.pdf`](./AI/public-workshop/Agentic_Coding_Workshop.pdf) · 46 slides
 
 A hands-on workshop on **agentic coding** — the practice of building AI agents that can plan, act, self-check, and retry in order to automate real software workflows.
 
@@ -109,7 +111,11 @@ A nine-session workshop series taught for the Gies MSBA program, taking students
 | **III · Systems & Decisions** | Agent Systems · When to Use ML, Agents, or Neither |
 | **IV · Finance** | Financial Markets and AI as an Investment Theme · AI for Financial and Investment Research |
 
+**Videos:** [Recording 1](https://www.youtube.com/watch?v=6wJaIfLtamU) · [Recording 2](https://www.youtube.com/watch?v=70fGo-DmbZE) · [Recording 3](https://www.youtube.com/watch?v=TuWWd335S1c)
+
 ### Personal Education — AI Engineering Series (2026)
+Slides from my personal YouTube videos sharing education on AI and agents. [Watch on YouTube](https://www.youtube.com/watch?v=xTCEF4jJhNs) · [folder README](./AI/education/personal-education/README.md)
+
 - [`prompt_to_graph_engineering.pdf`](./AI/education/personal-education/prompt_to_graph_engineering.pdf) · 48 slides — **From Prompt to Graph**: the five layers wrapped around the model (prompt, context, harness, loop, graph) and why each one had to exist.
 - [`Education-Series-2- from-prompt-to-agent.pdf`](./AI/education/personal-education/Education-Series-2-%20from-prompt-to-agent.pdf) · 41 slides — **From Prompt to Agent**: the same five layers taught through one business case, a small e-commerce team building a support agent week by week.
 
@@ -119,12 +125,14 @@ A nine-session workshop series taught for the Gies MSBA program, taking students
 
 My weekly update on the AI landscape for my Substack, covering models, applications, AI chips, and semiconductors.
 
-**Folder:** [`AI/ai-update`](./AI/ai-update)
+**Folder:** [`AI/ai-update`](./AI/ai-update) · [README](./AI/ai-update/README.md)
 - [`ARC Research AI Update — Sept 19–25, 2026.pdf`](./AI/ai-update/ARC%20Research%20AI%20Update%20%E2%80%94%20Sept%2019%E2%80%9325%2C%202026.pdf) — week of Sept 19–25, 2026.
 
 ---
 
 ## Finance Workshops
+
+Workshops I have been invited to lead to share my knowledge of markets, plus my club lectures and weekly market updates.
 
 ### 3. Overview of Global Financial Markets
 **File:** [`Finance/workshop/Workshop_Presentation.pptx.pdf`](./Finance/workshop/Workshop_Presentation.pptx.pdf)
@@ -149,7 +157,7 @@ From the invited workshops I lead to share my knowledge of markets. A comprehens
 ### 4. Macro Investing Association (MIA) — Complete Lecture Module
 **File:** [`Finance/club-education/MIA Lecture Complete Lecture Module.pptx.pdf`](./Finance/club-education/MIA%20Lecture%20Complete%20Lecture%20Module.pptx.pdf)
 
-A full-semester lecture guide from the **Macro Investing Association (MIA)**, an investment club focused on investment research, financial analysis, and macroeconomic strategy across multiple asset classes. Designed to take analysts from beginner to portfolio manager level.
+A full-semester lecture guide from the **Macro Investing Association (MIA)**, the club I founded and led as president while a student at UIUC. MIA taught multi-asset investing through a global macro framework, covering both fundamental and technical analysis. The guide is designed to take analysts from beginner to portfolio manager level.
 
 **Full Curriculum:**
 
@@ -186,9 +194,12 @@ Slides for my **weekly Substack market updates** on global macro, markets, and A
 ## Getting Started
 
 Browse the slides by navigating into the relevant folder:
-- [`/AI`](./AI) — Artificial Intelligence workshop materials
+- [`/AI/public-workshop`](./AI/public-workshop) — Invited workshops and talks on AI and trends in AI
+- [`/AI/ai-update`](./AI/ai-update) — Weekly Substack AI landscape update
+- [`/AI/education/personal-education`](./AI/education/personal-education) — Slides from my personal YouTube education videos
 - [`/AI/education/quantitative-analyst-course`](./AI/education/quantitative-analyst-course) — Gies MSBA workshop series on agents, ML, and finance
-- [`/Finance`](./Finance) — Finance workshop materials
+- [`/Finance/workshop`](./Finance/workshop) — Invited finance workshops on markets
+- [`/Finance/club-education`](./Finance/club-education) — Macro Investing Association lectures
 - [`/Finance/market-update`](./Finance/market-update) — Weekly Substack market update decks
 
 All slides are provided as PDF files and can be opened with any standard PDF viewer.
