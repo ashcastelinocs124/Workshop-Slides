@@ -9,7 +9,8 @@ A collection of presentation slides from workshops focused on **Artificial Intel
 ```
 Workshop-Slides/
 ├── AI/
-│   ├── ai-update/                     # ARC Research weekly AI updates
+│   ├── ai-update/                     # Weekly Substack AI landscape update (models, apps, chips, semis)
+│   │   ├── README.md
 │   │   └── ARC Research AI Update — Sept 19–25, 2026.pdf
 │   ├── education/
 │   │   ├── personal-education/
@@ -114,8 +115,10 @@ A nine-session workshop series taught for the Gies MSBA program, taking students
 
 ## AI Update
 
+My weekly update on the AI landscape for my Substack, covering models, applications, AI chips, and semiconductors.
+
 **Folder:** [`AI/ai-update`](./AI/ai-update)
-- [`ARC Research AI Update — Sept 19–25, 2026.pdf`](./AI/ai-update/ARC%20Research%20AI%20Update%20%E2%80%94%20Sept%2019%E2%80%9325%2C%202026.pdf) — ARC Research's weekly AI update.
+- [`ARC Research AI Update — Sept 19–25, 2026.pdf`](./AI/ai-update/ARC%20Research%20AI%20Update%20%E2%80%94%20Sept%2019%E2%80%9325%2C%202026.pdf) — week of Sept 19–25, 2026.
 
 ---
 
