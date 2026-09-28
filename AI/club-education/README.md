@@ -1,6 +1,6 @@
 # Club Education — Agentic AI @ UIUC
 
-Lectures and workshops from **Agentic AI @ UIUC**, the student AI club I founded and ran at the **University of Illinois Urbana-Champaign**. The club taught **AI, AI agents, and agentic coding with Claude Code** through weekly lectures, hands-on workshops, and semester-long build projects, and grew to 300+ members.
+Lectures and workshops from **Agentic AI @ UIUC**, the student AI club I founded and ran at the **University of Illinois Urbana-Champaign**. The club taught **AI, AI agents, and agentic coding with Claude Code** through weekly lectures, hands-on workshops, and semester-long build projects, and grew to 500+ members, making it the largest AI club at UIUC.
 
 **Source:** [Agentic-AI-UIUC/Spring-Slides](https://github.com/Agentic-AI-UIUC/Spring-Slides)
 

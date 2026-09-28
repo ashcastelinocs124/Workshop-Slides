@@ -130,7 +130,7 @@ Slides from my personal YouTube videos sharing education on AI and agents. [Watc
 
 **Folder:** [`AI/club-education`](./AI/club-education) · [README](./AI/club-education/README.md) · [source repo](https://github.com/Agentic-AI-UIUC/Spring-Slides)
 
-Agentic AI @ UIUC taught **AI, AI agents, and Claude Code** through weekly lectures and hands-on workshops, and grew to 300+ members.
+Agentic AI @ UIUC taught **AI, AI agents, and Claude Code** through weekly lectures and hands-on workshops, and grew to 500+ members, making it the largest AI club at UIUC.
 
 | Type | Sessions |
 |------|----------|
