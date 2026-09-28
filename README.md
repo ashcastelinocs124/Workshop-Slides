@@ -10,9 +10,10 @@ A collection of presentation slides from workshops focused on **Artificial Intel
 Workshop-Slides/
 ├── AI/
 │   ├── education/
-│   │   ├── Education-Series-2- from-prompt-to-agent.pdf
-│   │   ├── prompt_to_graph_engineering.pdf
-│   │   └── workshop-lecture/          # Gies MSBA series: AI, ML & Financial Markets
+│   │   ├── personal-education/
+│   │   │   ├── Education-Series-2- from-prompt-to-agent.pdf
+│   │   │   └── prompt_to_graph_engineering.pdf
+│   │   └── quantitative-analyst-course/   # Course I built for Gies MSBA students: AI, ML & Financial Markets
 │   │       ├── README.md
 │   │       ├── msba-ch00-workshop-intro.pdf
 │   │       └── msba-ch01-intro-to-ai-agents.pdf
@@ -85,8 +86,10 @@ A research presentation submitted to **SIEDS 2026** introducing **MedAgent**, a 
 
 ## 🎓 Education
 
-### Gies MSBA Workshop Series — AI, ML, and Financial Markets (Fall 2026)
-**Folder:** [`AI/education/workshop-lecture`](./AI/education/workshop-lecture) · [background & full curriculum](./AI/education/workshop-lecture/README.md)
+### Quantitative Analyst Course — Gies MSBA (Fall 2026)
+*The course I built for MSBA students on AI, ML, and Financial Markets.*
+
+**Folder:** [`AI/education/quantitative-analyst-course`](./AI/education/quantitative-analyst-course) · [background & full curriculum](./AI/education/quantitative-analyst-course/README.md)
 
 A nine-session workshop series taught for the Gies MSBA program, taking students from their first AI agent, through machine-learning foundations, to applying both in investment research — the toolkit of a modern **quantitative analyst**. Every chapter is set at a fictional equity research firm where students play the new quant analyst.
 
@@ -97,9 +100,9 @@ A nine-session workshop series taught for the Gies MSBA program, taking students
 | **III · Systems & Decisions** | Agent Systems · When to Use ML, Agents, or Neither |
 | **IV · Finance** | Financial Markets and AI as an Investment Theme · AI for Financial and Investment Research |
 
-### AI Engineering Education Series (2026)
-- [`prompt_to_graph_engineering.pdf`](./AI/education/prompt_to_graph_engineering.pdf) · 48 slides — **From Prompt to Graph**: the five layers wrapped around the model (prompt, context, harness, loop, graph) and why each one had to exist.
-- [`Education-Series-2- from-prompt-to-agent.pdf`](./AI/education/Education-Series-2-%20from-prompt-to-agent.pdf) · 41 slides — **From Prompt to Agent**: the same five layers taught through one business case, a small e-commerce team building a support agent week by week.
+### Personal Education — AI Engineering Series (2026)
+- [`prompt_to_graph_engineering.pdf`](./AI/education/personal-education/prompt_to_graph_engineering.pdf) · 48 slides — **From Prompt to Graph**: the five layers wrapped around the model (prompt, context, harness, loop, graph) and why each one had to exist.
+- [`Education-Series-2- from-prompt-to-agent.pdf`](./AI/education/personal-education/Education-Series-2-%20from-prompt-to-agent.pdf) · 41 slides — **From Prompt to Agent**: the same five layers taught through one business case, a small e-commerce team building a support agent week by week.
 
 ---
 
@@ -166,7 +169,7 @@ Slides for my **weekly Substack market updates** on global macro, markets, and A
 
 Browse the slides by navigating into the relevant folder:
 - [`/AI`](./AI) — Artificial Intelligence workshop materials
-- [`/AI/education/workshop-lecture`](./AI/education/workshop-lecture) — Gies MSBA workshop series on agents, ML, and finance
+- [`/AI/education/quantitative-analyst-course`](./AI/education/quantitative-analyst-course) — Gies MSBA workshop series on agents, ML, and finance
 - [`/finance`](./finance) — Finance workshop materials
 - [`/finance/market-update`](./finance/market-update) — Weekly Substack market update decks
 
