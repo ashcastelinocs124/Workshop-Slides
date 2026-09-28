@@ -1,6 +1,6 @@
 # Workshop Slides
 
-Slides from my work teaching and presenting on **Artificial Intelligence**, **Machine Learning**, and **Finance**: workshops and talks I have been invited to give on AI and markets, courses and education series I built, my weekly Substack updates on the AI landscape and markets, and lectures from the Macro Investing Association, the club I founded and led at UIUC.
+Slides from my work teaching and presenting on **Artificial Intelligence**, **Machine Learning**, and **Finance**: workshops and talks I have been invited to give on AI and markets, courses and education series I built, my weekly Substack updates on the AI landscape and markets, and lectures from the two clubs I founded and led at UIUC: Agentic AI @ UIUC and the Macro Investing Association.
 
 ---
 
@@ -12,6 +12,10 @@ Workshop-Slides/
 │   ├── ai-update/                     # Weekly Substack AI landscape update (models, apps, chips, semis)
 │   │   ├── README.md
 │   │   └── ARC Research AI Update — Sept 19–25, 2026.pdf
+│   ├── club-education/                # Agentic AI @ UIUC (club I founded at UIUC) lectures and workshops
+│   │   ├── README.md
+│   │   ├── spring-lectures/           # Agents, prompting, memory, RAG, RL, evals, MCP, voice agents
+│   │   └── claude-code-workshops/     # Hands-on Claude Code and OpenClaw workshops
 │   ├── education/
 │   │   ├── personal-education/        # Slides from my personal YouTube videos on AI and agents
 │   │   │   ├── README.md
@@ -121,6 +125,20 @@ Slides from my personal YouTube videos sharing education on AI and agents. [Watc
 
 ---
 
+### Agentic AI @ UIUC — Club Lectures & Workshops
+*Agentic AI @ UIUC is the AI club I founded and ran at UIUC.*
+
+**Folder:** [`AI/club-education`](./AI/club-education) · [README](./AI/club-education/README.md) · [source repo](https://github.com/Agentic-AI-UIUC/Spring-Slides)
+
+Agentic AI @ UIUC taught **AI, AI agents, and Claude Code** through weekly lectures and hands-on workshops, and grew to 300+ members.
+
+| Type | Sessions |
+|------|----------|
+| **Spring Lectures** | Intro to Agents · Prompt Engineering · Memory Management · RAG · Reinforcement Learning · Evals · MCP · Voice Agents |
+| **Claude Code Workshops** | Claude Code Workshop #1 (first-principles deep dive) · Workshop #2 · From LLMs to Autonomous Engineers (Ralph Wiggum loop & Super Ralph) · OpenClaw: build your personal agent |
+
+---
+
 ## AI Update
 
 My weekly update on the AI landscape for my Substack, covering models, applications, AI chips, and semiconductors.
@@ -197,6 +215,7 @@ Slides for my **weekly Substack market updates** on global macro, markets, and A
 
 Browse the slides by navigating into the relevant folder:
 - [`/AI/public-workshop`](./AI/public-workshop) — Invited workshops and talks on AI and trends in AI
+- [`/AI/club-education`](./AI/club-education) — Agentic AI @ UIUC club lectures and Claude Code workshops
 - [`/AI/ai-update`](./AI/ai-update) — Weekly Substack AI landscape update
 - [`/AI/education/personal-education`](./AI/education/personal-education) — Slides from my personal YouTube education videos
 - [`/AI/education/quantitative-analyst-course`](./AI/education/quantitative-analyst-course) — Gies MSBA workshop series on agents, ML, and finance
