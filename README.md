@@ -9,15 +9,19 @@ A collection of presentation slides from workshops focused on **Artificial Intel
 ```
 Workshop-Slides/
 ├── AI/
+│   ├── ai-update/                     # ARC Research weekly AI updates
+│   │   └── ARC Research AI Update — Sept 19–25, 2026.pdf
 │   ├── education/
 │   │   ├── personal-education/
 │   │   │   ├── Education-Series-2- from-prompt-to-agent.pdf
 │   │   │   └── prompt_to_graph_engineering.pdf
 │   │   └── quantitative-analyst-course/   # Course I built for Gies MSBA students: AI, ML & Financial Markets
 │   │       ├── README.md
+│   │       ├── llm-foundations-part0.pdf
 │   │       ├── msba-ch00-workshop-intro.pdf
-│   │       └── msba-ch01-intro-to-ai-agents.pdf
-│   └── workshop/
+│   │       ├── msba-ch01-intro-to-ai-agents.pdf
+│   │       └── workshop-2-prompt-context-engineering.pdf
+│   └── public-workshop/
 │       ├── Agentic_Coding_Workshop.pdf
 │       ├── Agentic-AI-UIUC-Workshop.pdf
 │       ├── evolution-of-ai-agents-rl.pdf
@@ -26,7 +30,7 @@ Workshop-Slides/
 │       ├── Project-Reserv-Pitch.pdf
 │       ├── Research-Paper-MedAgent .pdf
 │       └── Venture-Voice-to-Viva-BADM372-lecture.pdf
-└── finance/
+└── Finance/
     ├── market-update/                 # Weekly Substack market updates
     │   ├── README.md
     │   ├── llm-public-markets.pdf
@@ -42,7 +46,7 @@ Workshop-Slides/
 ## 🤖 AI Workshops
 
 ### 1. Agentic Coding Workshop (2026)
-**File:** [`AI/workshop/Agentic_Coding_Workshop.pdf`](./AI/workshop/Agentic_Coding_Workshop.pdf) · 42 slides
+**File:** [`AI/public-workshop/Agentic_Coding_Workshop.pdf`](./AI/public-workshop/Agentic_Coding_Workshop.pdf) · 42 slides
 
 A hands-on workshop on **agentic coding** — the practice of building AI agents that can plan, act, self-check, and retry in order to automate real software workflows.
 
@@ -56,7 +60,7 @@ A hands-on workshop on **agentic coding** — the practice of building AI agents
 ---
 
 ### 2. MedAgent — Trustworthy Personalized Consumer Health Search (SIEDS 2026)
-**File:** [`AI/workshop/Research-Paper-MedAgent .pdf`](./AI/workshop/Research-Paper-MedAgent%20.pdf)
+**File:** [`AI/public-workshop/Research-Paper-MedAgent .pdf`](./AI/public-workshop/Research-Paper-MedAgent%20.pdf)
 
 A research presentation submitted to **SIEDS 2026** introducing **MedAgent**, a multi-agent AI system designed to solve the problem of untrustworthy, generic, and hard-to-understand consumer health information online.
 
@@ -106,10 +110,17 @@ A nine-session workshop series taught for the Gies MSBA program, taking students
 
 ---
 
+## 📰 AI Update
+
+**Folder:** [`AI/ai-update`](./AI/ai-update)
+- [`ARC Research AI Update — Sept 19–25, 2026.pdf`](./AI/ai-update/ARC%20Research%20AI%20Update%20%E2%80%94%20Sept%2019%E2%80%9325%2C%202026.pdf) — ARC Research's weekly AI update.
+
+---
+
 ## 💰 Finance Workshops
 
 ### 3. Overview of Global Financial Markets
-**File:** [`finance/workshop/Workshop_Presentation.pptx.pdf`](./finance/workshop/Workshop_Presentation.pptx.pdf)
+**File:** [`Finance/workshop/Workshop_Presentation.pptx.pdf`](./Finance/workshop/Workshop_Presentation.pptx.pdf)
 
 A comprehensive introductory workshop on **global financial markets**, covering macro trends, portfolio construction, and key concepts for investors navigating today's environment.
 
@@ -129,7 +140,7 @@ A comprehensive introductory workshop on **global financial markets**, covering 
 ---
 
 ### 4. Macro Investing Association (MIA) — Complete Lecture Module
-**File:** [`finance/club-education/MIA Lecture Complete Lecture Module.pptx.pdf`](./finance/club-education/MIA%20Lecture%20Complete%20Lecture%20Module.pptx.pdf)
+**File:** [`Finance/club-education/MIA Lecture Complete Lecture Module.pptx.pdf`](./Finance/club-education/MIA%20Lecture%20Complete%20Lecture%20Module.pptx.pdf)
 
 A full-semester lecture guide from the **Macro Investing Association (MIA)**, an investment club focused on investment research, financial analysis, and macroeconomic strategy across multiple asset classes. Designed to take analysts from beginner to portfolio manager level.
 
@@ -156,12 +167,12 @@ A full-semester lecture guide from the **Macro Investing Association (MIA)**, an
 ---
 
 ### 5. Market Update — Weekly Substack Decks
-**Folder:** [`finance/market-update/`](./finance/market-update)
+**Folder:** [`Finance/market-update/`](./Finance/market-update)
 
 Slides for my **weekly Substack market updates** on global macro, markets, and AI. New decks are added each week.
 
-- [`Weekly Market Update — Sept 18, 2026.pdf`](./finance/market-update/Weekly%20Market%20Update%20—%20Sept%2018,%202026.pdf) · 28 slides — central banks hiking into $100 oil; equities, global rates, FX, commodities, Bitcoin, Japan, AI, and the Anthropic IPO
-- [`llm-public-markets.pdf`](./finance/market-update/llm-public-markets.pdf) · 55 slides — **How LLMs Became a Capital Markets Story**: how LLMs work, why better models need far more capital, and how debt and equity markets now shape the AI buildout
+- [`Weekly Market Update — Sept 18, 2026.pdf`](./Finance/market-update/Weekly%20Market%20Update%20—%20Sept%2018,%202026.pdf) · 28 slides — central banks hiking into $100 oil; equities, global rates, FX, commodities, Bitcoin, Japan, AI, and the Anthropic IPO
+- [`llm-public-markets.pdf`](./Finance/market-update/llm-public-markets.pdf) · 55 slides — **How LLMs Became a Capital Markets Story**: how LLMs work, why better models need far more capital, and how debt and equity markets now shape the AI buildout
 
 ---
 
@@ -170,7 +181,7 @@ Slides for my **weekly Substack market updates** on global macro, markets, and A
 Browse the slides by navigating into the relevant folder:
 - [`/AI`](./AI) — Artificial Intelligence workshop materials
 - [`/AI/education/quantitative-analyst-course`](./AI/education/quantitative-analyst-course) — Gies MSBA workshop series on agents, ML, and finance
-- [`/finance`](./finance) — Finance workshop materials
-- [`/finance/market-update`](./finance/market-update) — Weekly Substack market update decks
+- [`/Finance`](./Finance) — Finance workshop materials
+- [`/Finance/market-update`](./Finance/market-update) — Weekly Substack market update decks
 
 All slides are provided as PDF files and can be opened with any standard PDF viewer.
