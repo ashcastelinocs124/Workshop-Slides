@@ -4,7 +4,7 @@ Lecture slides from a nine-session workshop series I designed and taught for the
 
 ---
 
-## 🎯 Background
+## Background
 
 Quant and research roles increasingly expect analysts to build their own tooling: agents that gather and summarize evidence, ML models that score and forecast, and the judgment to know when neither is the right answer. This series was built to close that gap for business-analytics students who know some Python but have never shipped an agent or a model.
 
@@ -18,7 +18,7 @@ Workshop site (interactive textbook): [dl-msba-workshop.azurewebsites.net](https
 
 ---
 
-## 🗓️ Curriculum
+## Curriculum
 
 Nine Friday sessions, two hours each, in four parts:
 
@@ -38,7 +38,7 @@ Every chapter follows the same shape: **Objectives → Concepts → Try it → C
 
 ---
 
-## 📑 Slides
+## Slides
 
 | File | Session | Slides |
 |------|---------|--------|
@@ -49,7 +49,7 @@ Decks for later chapters are added here as each session is delivered.
 
 ---
 
-## 🔗 Related
+## Related
 
 - [`../`](../) — the standalone **AI Engineering Education Series** decks (prompt → context → harness → loop → graph)
 - [`../../../finance`](../../../finance) — macro investing and global markets lectures that complement Part IV

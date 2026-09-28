@@ -6,7 +6,7 @@ Lecture materials from my time as **founder and president of the Macro Investing
 
 ---
 
-## 🎯 Background
+## Background
 
 Most student investment clubs focus on single-stock pitches. MIA took a top-down approach instead: start with the global economy — growth, inflation, central banks, geopolitics — and work down to positioning across **equities, fixed income, currencies, commodities, and crypto**.
 
@@ -16,7 +16,7 @@ Most student investment clubs focus on single-stock pitches. MIA took a top-down
 
 ---
 
-## 📑 Slides
+## Slides
 
 | File | Topic | Slides |
 |------|-------|--------|
@@ -24,7 +24,7 @@ Most student investment clubs focus on single-stock pitches. MIA took a top-down
 
 ---
 
-## 🗓️ Curriculum
+## Curriculum
 
 | # | Module |
 |---|--------|
@@ -40,7 +40,7 @@ Most student investment clubs focus on single-stock pitches. MIA took a top-down
 
 ---
 
-## 🔗 Related
+## Related
 
 - [`../market-update/`](../market-update/) — weekly Substack market update decks
 - [`../workshop/`](../workshop/) — finance workshop presentation

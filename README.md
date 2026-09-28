@@ -4,7 +4,7 @@ A collection of presentation slides from workshops focused on **Artificial Intel
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 Workshop-Slides/
@@ -44,7 +44,7 @@ Workshop-Slides/
 
 ---
 
-## 🤖 AI Workshops
+## AI Workshops
 
 ### 1. Agentic Coding Workshop (2026)
 **File:** [`AI/public-workshop/Agentic_Coding_Workshop.pdf`](./AI/public-workshop/Agentic_Coding_Workshop.pdf) · 42 slides
@@ -89,7 +89,7 @@ A research presentation submitted to **SIEDS 2026** introducing **MedAgent**, a 
 
 ---
 
-## 🎓 Education
+## Education
 
 ### Quantitative Analyst Course — Gies MSBA (Fall 2026)
 *The course I built for MSBA students on AI, ML, and Financial Markets.*
@@ -111,14 +111,14 @@ A nine-session workshop series taught for the Gies MSBA program, taking students
 
 ---
 
-## 📰 AI Update
+## AI Update
 
 **Folder:** [`AI/ai-update`](./AI/ai-update)
 - [`ARC Research AI Update — Sept 19–25, 2026.pdf`](./AI/ai-update/ARC%20Research%20AI%20Update%20%E2%80%94%20Sept%2019%E2%80%9325%2C%202026.pdf) — ARC Research's weekly AI update.
 
 ---
 
-## 💰 Finance Workshops
+## Finance Workshops
 
 ### 3. Overview of Global Financial Markets
 **File:** [`Finance/workshop/Workshop_Presentation.pptx.pdf`](./Finance/workshop/Workshop_Presentation.pptx.pdf)
@@ -177,7 +177,7 @@ Slides for my **weekly Substack market updates** on global macro, markets, and A
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 Browse the slides by navigating into the relevant folder:
 - [`/AI`](./AI) — Artificial Intelligence workshop materials

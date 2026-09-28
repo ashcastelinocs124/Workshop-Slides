@@ -6,7 +6,7 @@ Slides for my **weekly Substack market updates**. Each week I publish a deck cov
 
 ---
 
-## 📑 Slides
+## Slides
 
 | File | Topic | Slides |
 |------|-------|--------|
@@ -17,6 +17,6 @@ New weekly decks are added here as each update is published.
 
 ---
 
-## 🔗 Related
+## Related
 
 - [`../`](../) — finance workshop and macro investing lectures
