@@ -2,6 +2,8 @@
 
 Lecture materials from my time as **founder and president of the Macro Investing Association (MIA)**, a student investment club I started at the **University of Illinois Urbana-Champaign**. MIA taught **multi-asset investing through a global macro framework**, covering both **fundamental** and **technical analysis**.
 
+**Substack:** [Macro Investing Association on Substack](https://substack.com/@macroinvestingassociation/notes)
+
 *For educational purposes only — not investment advice.*
 
 ---

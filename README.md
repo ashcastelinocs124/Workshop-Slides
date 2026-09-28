@@ -159,6 +159,8 @@ From the invited workshops I lead to share my knowledge of markets. A comprehens
 
 A full-semester lecture guide from the **Macro Investing Association (MIA)**, the club I founded and led as president while a student at UIUC. MIA taught multi-asset investing through a global macro framework, covering both fundamental and technical analysis. The guide is designed to take analysts from beginner to portfolio manager level.
 
+**Substack:** [Macro Investing Association on Substack](https://substack.com/@macroinvestingassociation/notes)
+
 **Full Curriculum:**
 
 | Module | Topics |
