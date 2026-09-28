@@ -35,7 +35,8 @@ Workshop-Slides/
     │   ├── README.md
     │   ├── llm-public-markets.pdf
     │   └── Weekly Market Update — Sept 18, 2026.pdf
-    ├── club-education/
+    ├── club-education/                # Macro Investing Association (club I founded at UIUC) lectures
+    │   ├── README.md
     │   └── MIA Lecture Complete Lecture Module.pptx.pdf
     └── workshop/
         └── Workshop_Presentation.pptx.pdf
