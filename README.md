@@ -38,7 +38,8 @@ Workshop-Slides/
     ├── club-education/                # Macro Investing Association (club I founded at UIUC) lectures
     │   ├── README.md
     │   └── MIA Lecture Complete Lecture Module.pptx.pdf
-    └── workshop/
+    └── workshop/                      # Invited workshops sharing my knowledge of markets
+        ├── README.md
         └── Workshop_Presentation.pptx.pdf
 ```
 
@@ -123,7 +124,7 @@ A nine-session workshop series taught for the Gies MSBA program, taking students
 ### 3. Overview of Global Financial Markets
 **File:** [`Finance/workshop/Workshop_Presentation.pptx.pdf`](./Finance/workshop/Workshop_Presentation.pptx.pdf)
 
-A comprehensive introductory workshop on **global financial markets**, covering macro trends, portfolio construction, and key concepts for investors navigating today's environment.
+From the invited workshops I lead to share my knowledge of markets. A comprehensive introductory workshop on **global financial markets**, covering macro trends, portfolio construction, and key concepts for investors navigating today's environment.
 
 **Topics covered:**
 - **Market Background** — The S&P 500's ~178% return since 2015 vs. the Information Technology sector's 450%+ surge; the "Magnificent Seven" tech companies' 698% combined return (2015–2024), nearly 4× the average S&P 500 company
