@@ -23,7 +23,8 @@ Workshop-Slides/
 │   │       ├── msba-ch00-workshop-intro.pdf
 │   │       ├── msba-ch01-intro-to-ai-agents.pdf
 │   │       └── workshop-2-prompt-context-engineering.pdf
-│   └── public-workshop/
+│   └── public-workshop/               # Invited workshops and talks on AI and trends in AI
+│       ├── README.md
 │       ├── Agentic_Coding_Workshop.pdf
 │       ├── Agentic-AI-UIUC-Workshop.pdf
 │       ├── evolution-of-ai-agents-rl.pdf
