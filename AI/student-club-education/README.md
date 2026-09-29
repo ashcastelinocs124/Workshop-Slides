@@ -1,4 +1,4 @@
-# Club Education — Agentic AI @ UIUC
+# Student Club Education — Agentic AI @ UIUC
 
 Lectures and workshops from **Agentic AI @ UIUC**, the student AI club I founded and ran at the **University of Illinois Urbana-Champaign**. The club taught **AI, AI agents, and agentic coding with Claude Code** through weekly lectures, hands-on workshops, and semester-long build projects, and grew to 500+ members, making it the largest AI club at UIUC.
 
@@ -51,4 +51,4 @@ Lectures and workshops from **Agentic AI @ UIUC**, the student AI club I founded
 ## Related
 
 - [`../public-workshop/`](../public-workshop/): invited AI workshops and talks
-- [`../../Finance/club-education/`](../../Finance/club-education/): Macro Investing Association, my finance club
+- [`../../Finance/student-club-education/`](../../Finance/student-club-education/): Macro Investing Association, my finance club

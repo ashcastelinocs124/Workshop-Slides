@@ -12,7 +12,7 @@ Workshop-Slides/
 │   ├── ai-update/                     # Weekly Substack AI landscape update (models, apps, chips, semis)
 │   │   ├── README.md
 │   │   └── ARC Research AI Update — Sept 19–25, 2026.pdf
-│   ├── club-education/                # Agentic AI @ UIUC (club I founded at UIUC) lectures and workshops
+│   ├── student-club-education/        # Agentic AI @ UIUC (club I founded at UIUC) lectures and workshops
 │   │   ├── README.md
 │   │   ├── spring-lectures/           # Agents, prompting, memory, RAG, RL, evals, MCP, voice agents
 │   │   └── claude-code-workshops/     # Hands-on Claude Code and OpenClaw workshops
@@ -23,6 +23,8 @@ Workshop-Slides/
 │   │   │   └── prompt_to_graph_engineering.pdf
 │   │   └── quantitative-analyst-course/   # Course I built for Gies MSBA students: AI, ML & Financial Markets
 │   │       ├── README.md
+│   │       ├── Jev-tech-education.pdf
+│   │       ├── jev_ticket_triage.ipynb
 │   │       ├── llm-foundations-part0.pdf
 │   │       ├── msba-ch00-workshop-intro.pdf
 │   │       ├── msba-ch01-intro-to-ai-agents.pdf
@@ -42,7 +44,7 @@ Workshop-Slides/
     │   ├── README.md
     │   ├── llm-public-markets.pdf
     │   └── Weekly Market Update — Sept 18, 2026.pdf
-    ├── club-education/                # Macro Investing Association (club I founded at UIUC) lectures
+    ├── student-club-education/        # Macro Investing Association (club I founded at UIUC) lectures
     │   ├── README.md
     │   └── MIA Lecture Complete Lecture Module.pptx.pdf
     └── workshop/                      # Invited workshops sharing my knowledge of markets
@@ -128,7 +130,7 @@ Slides from my personal YouTube videos sharing education on AI and agents. [Watc
 ### Agentic AI @ UIUC — Club Lectures & Workshops
 *Agentic AI @ UIUC is the AI club I founded and ran at UIUC.*
 
-**Folder:** [`AI/club-education`](./AI/club-education) · [README](./AI/club-education/README.md) · [source repo](https://github.com/Agentic-AI-UIUC/Spring-Slides)
+**Folder:** [`AI/student-club-education`](./AI/student-club-education) · [README](./AI/student-club-education/README.md) · [source repo](https://github.com/Agentic-AI-UIUC/Spring-Slides)
 
 Agentic AI @ UIUC taught **AI, AI agents, and Claude Code** through weekly lectures and hands-on workshops, and grew to 500+ members, making it the largest AI club at UIUC.
 
@@ -173,7 +175,7 @@ From the invited workshops I lead to share my knowledge of markets. A comprehens
 ---
 
 ### 4. Macro Investing Association (MIA) — Complete Lecture Module
-**File:** [`Finance/club-education/MIA Lecture Complete Lecture Module.pptx.pdf`](./Finance/club-education/MIA%20Lecture%20Complete%20Lecture%20Module.pptx.pdf)
+**File:** [`Finance/student-club-education/MIA Lecture Complete Lecture Module.pptx.pdf`](./Finance/student-club-education/MIA%20Lecture%20Complete%20Lecture%20Module.pptx.pdf)
 
 A full-semester lecture guide from the **Macro Investing Association (MIA)**, the club I founded and led as president while a student at UIUC. MIA taught multi-asset investing through a global macro framework, covering both fundamental and technical analysis. The guide is designed to take analysts from beginner to portfolio manager level.
 
@@ -215,12 +217,12 @@ Slides for my **weekly Substack market updates** on global macro, markets, and A
 
 Browse the slides by navigating into the relevant folder:
 - [`/AI/public-workshop`](./AI/public-workshop) — Invited workshops and talks on AI and trends in AI
-- [`/AI/club-education`](./AI/club-education) — Agentic AI @ UIUC club lectures and Claude Code workshops
+- [`/AI/student-club-education`](./AI/student-club-education) — Agentic AI @ UIUC club lectures and Claude Code workshops
 - [`/AI/ai-update`](./AI/ai-update) — Weekly Substack AI landscape update
 - [`/AI/education/personal-education`](./AI/education/personal-education) — Slides from my personal YouTube education videos
 - [`/AI/education/quantitative-analyst-course`](./AI/education/quantitative-analyst-course) — Gies MSBA workshop series on agents, ML, and finance
 - [`/Finance/workshop`](./Finance/workshop) — Invited finance workshops on markets
-- [`/Finance/club-education`](./Finance/club-education) — Macro Investing Association lectures
+- [`/Finance/student-club-education`](./Finance/student-club-education) — Macro Investing Association lectures
 - [`/Finance/market-update`](./Finance/market-update) — Weekly Substack market update decks
 
 All slides are provided as PDF files and can be opened with any standard PDF viewer.

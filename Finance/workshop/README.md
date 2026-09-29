@@ -18,5 +18,5 @@ New decks are added here as I give more invited workshops.
 
 ## Related
 
-- [`../club-education/`](../club-education/): Macro Investing Association lectures
+- [`../student-club-education/`](../student-club-education/): Macro Investing Association lectures
 - [`../market-update/`](../market-update/): weekly Substack market update decks

@@ -1,4 +1,4 @@
-# Club Education — Macro Investing Association
+# Student Club Education — Macro Investing Association
 
 Lecture materials from my time as **founder and president of the Macro Investing Association (MIA)**, a student investment club I started at the **University of Illinois Urbana-Champaign**. MIA taught **multi-asset investing through a global macro framework**, covering both **fundamental** and **technical analysis**.
 

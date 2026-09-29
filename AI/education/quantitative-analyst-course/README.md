@@ -44,6 +44,14 @@ Every chapter follows the same shape: **Objectives → Concepts → Try it → C
 |------|---------|--------|
 | [`msba-ch00-workshop-intro.pdf`](./msba-ch00-workshop-intro.pdf) | Series kickoff — the setting, your role, the nine-week plan, and setup | 12 |
 | [`msba-ch01-intro-to-ai-agents.pdf`](./msba-ch01-intro-to-ai-agents.pdf) | Chapter 1 — tell an agent from a workflow, name the three parts every agent has, and design a tool schema that keeps one in bounds | 47 |
+| [`workshop-2-prompt-context-engineering.pdf`](./workshop-2-prompt-context-engineering.pdf) | Chapter 2 — prompt and context engineering | |
+| [`Jev-tech-education.pdf`](./Jev-tech-education.pdf) | Walkthrough — TypeSafe Jev, a System-1 model that returns typed answers (choice / score / yes-no) with probabilities instead of text | |
+
+## Notebooks
+
+| File | What it does |
+|------|--------------|
+| [`jev_ticket_triage.ipynb`](./jev_ticket_triage.ipynb) | Support-ticket triage with TypeSafe Jev in Colab — routes each ticket to a department, flags urgency, and scores frustration |
 
 Decks for later chapters are added here as each session is delivered.
 
@@ -56,6 +64,7 @@ Recorded sessions from the series on YouTube:
 - [Recording 1](https://www.youtube.com/watch?v=6wJaIfLtamU)
 - [Recording 2](https://www.youtube.com/watch?v=70fGo-DmbZE)
 - [Recording 3](https://www.youtube.com/watch?v=TuWWd335S1c)
+- [Quick walkthrough over Jev](https://www.youtube.com/watch?v=W8pP1qTRja4)
 
 ---
 
