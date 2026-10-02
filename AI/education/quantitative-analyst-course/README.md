@@ -45,6 +45,7 @@ Every chapter follows the same shape: **Objectives → Concepts → Try it → C
 | [`msba-ch00-workshop-intro.pdf`](./msba-ch00-workshop-intro.pdf) | Series kickoff — the setting, your role, the nine-week plan, and setup | 12 |
 | [`msba-ch01-intro-to-ai-agents.pdf`](./msba-ch01-intro-to-ai-agents.pdf) | Chapter 1 — tell an agent from a workflow, name the three parts every agent has, and design a tool schema that keeps one in bounds | 47 |
 | [`workshop-2-prompt-context-engineering.pdf`](./workshop-2-prompt-context-engineering.pdf) | Chapter 2 — prompt and context engineering | |
+| [`workshop-3-memory-retrieval-rag.pdf`](./workshop-3-memory-retrieval-rag.pdf) | Chapter 3 — memory, retrieval and RAG: how an agent finds what it never read and remembers what it was told | 94 |
 | [`Jev-tech-education.pdf`](./Jev-tech-education.pdf) | Walkthrough — TypeSafe Jev, a System-1 model that returns typed answers (choice / score / yes-no) with probabilities instead of text | |
 
 ## Notebooks
