@@ -66,6 +66,7 @@ Recorded sessions from the series on YouTube:
 - [Recording 2](https://www.youtube.com/watch?v=70fGo-DmbZE)
 - [Recording 3](https://www.youtube.com/watch?v=TuWWd335S1c)
 - [Quick walkthrough over Jev](https://www.youtube.com/watch?v=W8pP1qTRja4)
+- [Session 3 — RAG & Agent Memory](https://www.youtube.com/watch?v=Rx-BJtDumqU)
 
 ---
 
