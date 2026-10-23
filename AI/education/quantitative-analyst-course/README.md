@@ -47,6 +47,7 @@ Every chapter follows the same shape: **Objectives → Concepts → Try it → C
 | [`workshop-2-prompt-context-engineering.pdf`](./workshop-2-prompt-context-engineering.pdf) | Chapter 2 — prompt and context engineering | |
 | [`workshop-3-memory-retrieval-rag.pdf`](./workshop-3-memory-retrieval-rag.pdf) | Chapter 3 — memory, retrieval and RAG: how an agent finds what it never read and remembers what it was told | 94 |
 | [`workshop-4-ml-foundations-1.pdf`](./workshop-4-ml-foundations-1.pdf) | Chapter 4 — ML foundations I: supervised learning from data to a tested model (data representation, linear regression, loss, gradient descent, evaluation) | 107 |
+| [`workshop-5-ml-foundations-2.pdf`](./workshop-5-ml-foundations-2.pdf) | Chapter 5 — ML foundations II: unsupervised learning (clustering, dimensionality reduction, anomaly detection) | 81 |
 | [`Jev-tech-education.pdf`](./Jev-tech-education.pdf) | Walkthrough — TypeSafe Jev, a System-1 model that returns typed answers (choice / score / yes-no) with probabilities instead of text | |
 
 ## Notebooks
