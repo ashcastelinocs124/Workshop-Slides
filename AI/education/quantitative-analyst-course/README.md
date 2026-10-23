@@ -70,6 +70,7 @@ Recorded sessions from the series on YouTube:
 - [Quick walkthrough over Jev](https://www.youtube.com/watch?v=W8pP1qTRja4)
 - [Session 3 — RAG & Agent Memory](https://www.youtube.com/watch?v=Rx-BJtDumqU)
 - [Session 4 — ML Foundations I](https://www.youtube.com/watch?v=cr98B6VnI1k)
+- [Session 5 — ML Foundations II](https://www.youtube.com/watch?v=bg_Mn7bUbMI)
 
 ---
 
