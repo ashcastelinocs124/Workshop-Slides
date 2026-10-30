@@ -48,6 +48,7 @@ Every chapter follows the same shape: **Objectives → Concepts → Try it → C
 | [`workshop-3-memory-retrieval-rag.pdf`](./workshop-3-memory-retrieval-rag.pdf) | Chapter 3 — memory, retrieval and RAG: how an agent finds what it never read and remembers what it was told | 94 |
 | [`workshop-4-ml-foundations-1.pdf`](./workshop-4-ml-foundations-1.pdf) | Chapter 4 — ML foundations I: supervised learning from data to a tested model (data representation, linear regression, loss, gradient descent, evaluation) | 107 |
 | [`workshop-5-ml-foundations-2.pdf`](./workshop-5-ml-foundations-2.pdf) | Chapter 5 — ML foundations II: unsupervised learning (clustering, dimensionality reduction, anomaly detection) | 81 |
+| [`workshop-6-self-learning-agents.pdf`](./workshop-6-self-learning-agents.pdf) | Chapter 6 — building self-learning AI agents: the learning harness, memory and experience, recursive language models, rewards and continual learning, evaluation | 195 |
 | [`Jev-tech-education.pdf`](./Jev-tech-education.pdf) | Walkthrough — TypeSafe Jev, a System-1 model that returns typed answers (choice / score / yes-no) with probabilities instead of text | |
 
 ## Notebooks
@@ -71,6 +72,7 @@ Recorded sessions from the series on YouTube:
 - [Session 3 — RAG & Agent Memory](https://www.youtube.com/watch?v=Rx-BJtDumqU)
 - [Session 4 — ML Foundations I](https://www.youtube.com/watch?v=cr98B6VnI1k)
 - [Session 5 — ML Foundations II](https://www.youtube.com/watch?v=bg_Mn7bUbMI)
+- [Session 6 — Building Self-Learning AI Agents](https://www.youtube.com/watch?v=BbT-xdsY3f8)
 
 ---
 
