@@ -11,6 +11,9 @@ Workshop-Slides/
 ├── AI/
 │   ├── ai-update/                     # Weekly Substack AI landscape update (models, apps, chips, semis)
 │   │   ├── README.md
+│   │   ├── ARC Research AI Update — AI Models & Semis, Nov 7, 2026.pdf
+│   │   ├── Cooling the AI GPU.pdf
+│   │   ├── AI Data Centers Are Going to Space.pdf
 │   │   └── ARC Research AI Update — Sept 19–25, 2026.pdf
 │   ├── student-club-education/        # Agentic AI @ UIUC (club I founded at UIUC) lectures and workshops
 │   │   ├── README.md
@@ -43,6 +46,12 @@ Workshop-Slides/
     ├── market-update/                 # Weekly Substack market updates
     │   ├── README.md
     │   ├── llm-public-markets.pdf
+    │   ├── Data Centers on the Ballot.pdf
+    │   ├── Brazil 2026.pdf
+    │   ├── Where Money Goes Next.pdf
+    │   ├── Weekly Market Update — Nov 6, 2026.pdf
+    │   ├── Weekly Market Update — Oct 30, 2026.pdf
+    │   ├── Weekly Market Update — Oct 16, 2026.pdf
     │   └── Weekly Market Update — Sept 18, 2026.pdf
     ├── student-club-education/        # Macro Investing Association (club I founded at UIUC) lectures
     │   ├── README.md
@@ -146,6 +155,9 @@ Agentic AI @ UIUC taught **AI, AI agents, and Claude Code** through weekly lectu
 My weekly update on the AI landscape for my Substack, covering models, applications, AI chips, and semiconductors.
 
 **Folder:** [`AI/ai-update`](./AI/ai-update) · [README](./AI/ai-update/README.md)
+- [`ARC Research AI Update — AI Models & Semis, Nov 7, 2026.pdf`](./AI/ai-update/ARC%20Research%20AI%20Update%20%E2%80%94%20AI%20Models%20%26%20Semis%2C%20Nov%207%2C%202026.pdf) · 46 slides — **AI models & semis update (Nov 7, 2026)**: how Thinking Machines and Cognition trained their new models, METR on AI R&D speed, TSMC's 3D DRAM and DeepSeek on Ascend
+- [`Cooling the AI GPU.pdf`](./AI/ai-update/Cooling%20the%20AI%20GPU.pdf) · 37 slides — **Cooling the AI GPU (Oct 26, 2026)**: single-phase vs two-phase liquid cooling: why AI racks need it, OCP's specs, the fluid risk and who profits
+- [`AI Data Centers Are Going to Space.pdf`](./AI/ai-update/AI%20Data%20Centers%20Are%20Going%20to%20Space.pdf) · 22 slides — **AI Data Centers Are Going to Space (Sep 24, 2026)**: Google's Project Suncatcher, and the five engineering problems between a design paper and an orbital AI cluster
 - [`ARC Research AI Update — Sept 19–25, 2026.pdf`](./AI/ai-update/ARC%20Research%20AI%20Update%20%E2%80%94%20Sept%2019%E2%80%9325%2C%202026.pdf) — week of Sept 19–25, 2026.
 
 ---
@@ -208,8 +220,14 @@ A full-semester lecture guide from the **Macro Investing Association (MIA)**, th
 
 Slides for my **weekly Substack market updates** on global macro, markets, and AI. New decks are added each week.
 
-- [`Weekly Market Update — Sept 18, 2026.pdf`](./Finance/market-update/Weekly%20Market%20Update%20—%20Sept%2018,%202026.pdf) · 28 slides — central banks hiking into $100 oil; equities, global rates, FX, commodities, Bitcoin, Japan, AI, and the Anthropic IPO
+- [`Weekly Market Update — Nov 6, 2026.pdf`](./Finance/market-update/Weekly%20Market%20Update%20%E2%80%94%20Nov%206%2C%202026.pdf) · 38 slides — **Weekly Market Update #4: The AI unwind (Nov 2–6, 2026)**: an election rally, then the Nov 5 AI crash: chips fell 12.1% on the week; the rotation, the fundamentals and Asia
+- [`Weekly Market Update — Oct 30, 2026.pdf`](./Finance/market-update/Weekly%20Market%20Update%20%E2%80%94%20Oct%2030%2C%202026.pdf) · 40 slides — **Weekly Market Update #3: Rotation week: tech sinks, small caps hold (Oct 26–30, 2026)**: money left megacap tech for small caps as Alphabet and Intel sank, the Fed held 10–2 and Anthropic filed its S-1
+- [`Weekly Market Update — Oct 16, 2026.pdf`](./Finance/market-update/Weekly%20Market%20Update%20%E2%80%94%20Oct%2016%2C%202026.pdf) · 38 slides — **Weekly Market Update #2: Tech blinks, the Dow holds (Oct 12–16, 2026)**: money left AI hardware and AI credit for defensives and energy, as CoreWeave fell and oil topped $100
+- [`Weekly Market Update — Sept 18, 2026.pdf`](./Finance/market-update/Weekly%20Market%20Update%20—%20Sept%2018,%202026.pdf) · 28 slides — **Weekly Market Update #1** (week ending Sept 18, 2026): central banks hiking into $100 oil; equities, global rates, FX, commodities, Bitcoin, Japan, AI, and the Anthropic IPO
 - [`llm-public-markets.pdf`](./Finance/market-update/llm-public-markets.pdf) · 55 slides — **How LLMs Became a Capital Markets Story**: how LLMs work, why better models need far more capital, and how debt and equity markets now shape the AI buildout
+- [`Data Centers on the Ballot.pdf`](./Finance/market-update/Data%20Centers%20on%20the%20Ballot.pdf) · 28 slides — **Data Centers on the Ballot (Nov 5, 2026)**: a 50-state rules index, $450B of announced projects, what the 2026 winners said, and voters turning against them · [watch the talk](https://archresearch.substack.com/p/data-center-buildout-not-to-be-worried)
+- [`Brazil 2026.pdf`](./Finance/market-update/Brazil%202026.pdf) · 57 slides — **Brazil 2026: the runoff, the market, the Congress (Oct 8, 2026)**: Brazil's Lula vs Flávio Bolsonaro runoff, how markets reacted, the new Congress and the macro backdrop
+- [`Where Money Goes Next.pdf`](./Finance/market-update/Where%20Money%20Goes%20Next.pdf) · 23 slides — **Where Money Goes Next (Sep 28, 2026)**: how AI, energy, government debt, metals and crypto connect, and where capital may be positioned next
 
 ---
 
