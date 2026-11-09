@@ -10,7 +10,7 @@ Slides for my **weekly Substack market updates**. Each week I publish a deck cov
 
 | File | Topic | Slides |
 |------|-------|--------|
-| [`Weekly Market Update — Nov 6, 2026.pdf`](./Weekly%20Market%20Update%20%E2%80%94%20Nov%206%2C%202026.pdf) | **Weekly Market Update #4: The AI unwind (Nov 2–6, 2026)**: an election rally, then the Nov 5 AI crash: chips fell 12.1% on the week; the rotation, the fundamentals and Asia | 53 |
+| [`Weekly Market Update — Nov 6, 2026.pdf`](./Weekly%20Market%20Update%20%E2%80%94%20Nov%206%2C%202026.pdf) | **Weekly Market Update #4: The AI unwind (Nov 2–6, 2026)**: an election rally, then the Nov 5 AI crash: chips fell 12.1% on the week; the rotation, the fundamentals and Asia | 55 |
 | [`Weekly Market Update — Oct 30, 2026.pdf`](./Weekly%20Market%20Update%20%E2%80%94%20Oct%2030%2C%202026.pdf) | **Weekly Market Update #3: Rotation week: tech sinks, small caps hold (Oct 26–30, 2026)**: money left megacap tech for small caps as Alphabet and Intel sank, the Fed held 10–2 and Anthropic filed its S-1 | 40 |
 | [`Weekly Market Update — Oct 16, 2026.pdf`](./Weekly%20Market%20Update%20%E2%80%94%20Oct%2016%2C%202026.pdf) | **Weekly Market Update #2: Tech blinks, the Dow holds (Oct 12–16, 2026)**: money left AI hardware and AI credit for defensives and energy, as CoreWeave fell and oil topped $100 | 38 |
 | [`Weekly Market Update — Sept 18, 2026.pdf`](./Weekly%20Market%20Update%20—%20Sept%2018,%202026.pdf) | **Weekly Market Update #1** (week ending Sept 18, 2026): central banks hiking into $100 oil; equities, global rates, FX, commodities, Bitcoin, Japan, AI, and the Anthropic IPO | 28 |
