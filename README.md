@@ -50,6 +50,7 @@ Workshop-Slides/
     │   ├── Data Centers on the Ballot.pdf
     │   ├── Brazil 2026.pdf
     │   ├── Where Money Goes Next.pdf
+    │   ├── ARC Research Daily Market Update — Nov 9, 2026.pdf
     │   ├── Weekly Market Update — Nov 6, 2026.pdf
     │   ├── Weekly Market Update — Oct 30, 2026.pdf
     │   ├── Weekly Market Update — Oct 16, 2026.pdf
@@ -222,6 +223,7 @@ A full-semester lecture guide from the **Macro Investing Association (MIA)**, th
 
 Slides for my **weekly Substack market updates** on global macro, markets, and AI. New decks are added each week.
 
+- [`ARC Research Daily Market Update — Nov 9, 2026.pdf`](./Finance/market-update/ARC%20Research%20Daily%20Market%20Update%20%E2%80%94%20Nov%209%2C%202026.pdf) · 28 slides — **Market Update #5: A broad 2% rebound, minus Nvidia (Nov 9, 2026)**: every major index gained over 2% as oil slid and chips bounced; Nvidia fell 4.2% on a board inquiry, with CPI next
 - [`Weekly Market Update — Nov 6, 2026.pdf`](./Finance/market-update/Weekly%20Market%20Update%20%E2%80%94%20Nov%206%2C%202026.pdf) · 55 slides — **Market Update #4: The AI unwind (Nov 2–6, 2026)**: an election rally, then the Nov 5 AI crash: chips fell 12.1% on the week; the rotation, the fundamentals and Asia
 - [`Weekly Market Update — Oct 30, 2026.pdf`](./Finance/market-update/Weekly%20Market%20Update%20%E2%80%94%20Oct%2030%2C%202026.pdf) · 40 slides — **Market Update #3: Rotation week: tech sinks, small caps hold (Oct 26–30, 2026)**: money left megacap tech for small caps as Alphabet and Intel sank, the Fed held 10–2 and Anthropic filed its S-1
 - [`Weekly Market Update — Oct 16, 2026.pdf`](./Finance/market-update/Weekly%20Market%20Update%20%E2%80%94%20Oct%2016%2C%202026.pdf) · 38 slides — **Market Update #2: Tech blinks, the Dow holds (Oct 12–16, 2026)**: money left AI hardware and AI credit for defensives and energy, as CoreWeave fell and oil topped $100
