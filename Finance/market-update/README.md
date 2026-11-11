@@ -10,6 +10,7 @@ Slides for my **weekly Substack market updates**. Each week I publish a deck cov
 
 | File | Topic | Slides |
 |------|-------|--------|
+| [`ARC Research Daily Market Update — Nov 10, 2026.pdf`](./ARC%20Research%20Daily%20Market%20Update%20%E2%80%94%20Nov%2010%2C%202026.pdf) | **Market Update #6: Hot CPI, a narrow slip, Nvidia hit (Nov 10, 2026)**: hot October CPI (+0.4%) lifted the 2-year yield ~19bp; the S&P 500 slipped 0.38%, mostly on Nvidia's 5.5% drop, as CoreWeave beat | 35 |
 | [`ARC Research Daily Market Update — Nov 9, 2026.pdf`](./ARC%20Research%20Daily%20Market%20Update%20%E2%80%94%20Nov%209%2C%202026.pdf) | **Market Update #5: A broad 2% rebound, minus Nvidia (Nov 9, 2026)**: every major index gained over 2% as oil slid and chips bounced; Nvidia fell 4.2% on a board inquiry, with CPI next | 28 |
 | [`Weekly Market Update — Nov 6, 2026.pdf`](./Weekly%20Market%20Update%20%E2%80%94%20Nov%206%2C%202026.pdf) | **Market Update #4: The AI unwind (Nov 2–6, 2026)**: an election rally, then the Nov 5 AI crash: chips fell 12.1% on the week; the rotation, the fundamentals and Asia | 55 |
 | [`Weekly Market Update — Oct 30, 2026.pdf`](./Weekly%20Market%20Update%20%E2%80%94%20Oct%2030%2C%202026.pdf) | **Market Update #3: Rotation week: tech sinks, small caps hold (Oct 26–30, 2026)**: money left megacap tech for small caps as Alphabet and Intel sank, the Fed held 10–2 and Anthropic filed its S-1 | 40 |
