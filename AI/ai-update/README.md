@@ -10,6 +10,7 @@ Slides for my **weekly AI landscape update** on Substack, published under **ARC 
 
 | File | Topic | Slides |
 |------|-------|--------|
+| [`ARC Research AI Update — NVIDIA after Jensen, Nov 12, 2026.pdf`](./ARC%20Research%20AI%20Update%20%E2%80%94%20NVIDIA%20after%20Jensen%2C%20Nov%2012%2C%202026.pdf) | **NVIDIA after Jensen (Nov 12, 2026)**: jensen Huang's exit: the probe, interim CEO Colette Kress, a $99.4B balance sheet, the Apple comparison and why this is not a Tim Cook moment | 69 |
 | [`ARC Research Special Topics — Anthropic’s S-1 The IPO Teardown.pdf`](./ARC%20Research%20Special%20Topics%20%E2%80%94%20Anthropic%E2%80%99s%20S-1%20The%20IPO%20Teardown.pdf) | **Anthropic's S-1: the IPO teardown (Nov 10, 2026)**: Anthropic's IPO at $70–$78 a share: $33.2B of revenue in nine months, a $104B loss that is mostly accounting, an $895B compute bill and founder control · [watch the talk](https://www.youtube.com/watch?v=Mpze8dW0fSo) | 86 |
 | [`ARC Research AI Update — AI Models & Semis, Nov 7, 2026.pdf`](./ARC%20Research%20AI%20Update%20%E2%80%94%20AI%20Models%20%26%20Semis%2C%20Nov%207%2C%202026.pdf) | **AI models & semis update (Nov 7, 2026)**: how Thinking Machines and Cognition trained their new models, METR on AI R&D speed, TSMC's 3D DRAM and DeepSeek on Ascend | 46 |
 | [`Cooling the AI GPU.pdf`](./Cooling%20the%20AI%20GPU.pdf) | **Cooling the AI GPU (Oct 26, 2026)**: single-phase vs two-phase liquid cooling: why AI racks need it, OCP's specs, the fluid risk and who profits | 37 |

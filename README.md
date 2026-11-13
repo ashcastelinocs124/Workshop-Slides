@@ -11,6 +11,7 @@ Workshop-Slides/
 ├── AI/
 │   ├── ai-update/                     # Weekly Substack AI landscape update (models, apps, chips, semis)
 │   │   ├── README.md
+│   │   ├── ARC Research AI Update — NVIDIA after Jensen, Nov 12, 2026.pdf
 │   │   ├── ARC Research Special Topics — Anthropic’s S-1 The IPO Teardown.pdf
 │   │   ├── ARC Research AI Update — AI Models & Semis, Nov 7, 2026.pdf
 │   │   ├── Cooling the AI GPU.pdf
@@ -157,6 +158,7 @@ Agentic AI @ UIUC taught **AI, AI agents, and Claude Code** through weekly lectu
 My weekly update on the AI landscape for my Substack, covering models, applications, AI chips, and semiconductors.
 
 **Folder:** [`AI/ai-update`](./AI/ai-update) · [README](./AI/ai-update/README.md)
+- [`ARC Research AI Update — NVIDIA after Jensen, Nov 12, 2026.pdf`](./AI/ai-update/ARC%20Research%20AI%20Update%20%E2%80%94%20NVIDIA%20after%20Jensen%2C%20Nov%2012%2C%202026.pdf) · 69 slides — **NVIDIA after Jensen (Nov 12, 2026)**: jensen Huang's exit: the probe, interim CEO Colette Kress, a $99.4B balance sheet, the Apple comparison and why this is not a Tim Cook moment
 - [`ARC Research Special Topics — Anthropic’s S-1 The IPO Teardown.pdf`](./AI/ai-update/ARC%20Research%20Special%20Topics%20%E2%80%94%20Anthropic%E2%80%99s%20S-1%20The%20IPO%20Teardown.pdf) · 86 slides — **Anthropic's S-1: the IPO teardown (Nov 10, 2026)**: Anthropic's IPO at $70–$78 a share: $33.2B of revenue in nine months, a $104B loss that is mostly accounting, an $895B compute bill and founder control · [watch the talk](https://www.youtube.com/watch?v=Mpze8dW0fSo)
 - [`ARC Research AI Update — AI Models & Semis, Nov 7, 2026.pdf`](./AI/ai-update/ARC%20Research%20AI%20Update%20%E2%80%94%20AI%20Models%20%26%20Semis%2C%20Nov%207%2C%202026.pdf) · 46 slides — **AI models & semis update (Nov 7, 2026)**: how Thinking Machines and Cognition trained their new models, METR on AI R&D speed, TSMC's 3D DRAM and DeepSeek on Ascend
 - [`Cooling the AI GPU.pdf`](./AI/ai-update/Cooling%20the%20AI%20GPU.pdf) · 37 slides — **Cooling the AI GPU (Oct 26, 2026)**: single-phase vs two-phase liquid cooling: why AI racks need it, OCP's specs, the fluid risk and who profits
