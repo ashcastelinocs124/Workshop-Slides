@@ -48,6 +48,7 @@ Workshop-Slides/
     ├── market-update/                 # Weekly Substack market updates
     │   ├── README.md
     │   ├── llm-public-markets.pdf
+    │   ├── How we got to the AI trade.pdf
     │   ├── Data Centers on the Ballot.pdf
     │   ├── Brazil 2026.pdf
     │   ├── Where Money Goes Next.pdf
@@ -233,6 +234,7 @@ Slides for my **weekly Substack market updates** on global macro, markets, and A
 - [`Weekly Market Update — Oct 16, 2026.pdf`](./Finance/market-update/Weekly%20Market%20Update%20%E2%80%94%20Oct%2016%2C%202026.pdf) · 38 slides — **Market Update #2: Tech blinks, the Dow holds (Oct 12–16, 2026)**: money left AI hardware and AI credit for defensives and energy, as CoreWeave fell and oil topped $100
 - [`Weekly Market Update — Sept 18, 2026.pdf`](./Finance/market-update/Weekly%20Market%20Update%20—%20Sept%2018,%202026.pdf) · 28 slides — **Market Update #1** (week ending Sept 18, 2026): central banks hiking into $100 oil; equities, global rates, FX, commodities, Bitcoin, Japan, AI, and the Anthropic IPO
 - [`llm-public-markets.pdf`](./Finance/market-update/llm-public-markets.pdf) · 55 slides — **How LLMs Became a Capital Markets Story**: how LLMs work, why better models need far more capital, and how debt and equity markets now shape the AI buildout
+- [`How we got to the AI trade.pdf`](./Finance/market-update/How%20we%20got%20to%20the%20AI%20trade.pdf) · 95 slides — **How we got to the AI trade (Nov 11, 2026)**: eight chapters from ChatGPT in late 2022 to the November 2026 selloff: Nvidia's run, power and TSMC, the memory squeeze, DeepSeek, circular deals and the IPOs
 - [`Data Centers on the Ballot.pdf`](./Finance/market-update/Data%20Centers%20on%20the%20Ballot.pdf) · 28 slides — **Data Centers on the Ballot (Nov 5, 2026)**: a 50-state rules index, $450B of announced projects, what the 2026 winners said, and voters turning against them · [watch the talk](https://archresearch.substack.com/p/data-center-buildout-not-to-be-worried)
 - [`Brazil 2026.pdf`](./Finance/market-update/Brazil%202026.pdf) · 57 slides — **Brazil 2026: the runoff, the market, the Congress (Oct 8, 2026)**: Brazil's Lula vs Flávio Bolsonaro runoff, how markets reacted, the new Congress and the macro backdrop
 - [`Where Money Goes Next.pdf`](./Finance/market-update/Where%20Money%20Goes%20Next.pdf) · 23 slides — **Where Money Goes Next (Sep 28, 2026)**: how AI, energy, government debt, metals and crypto connect, and where capital may be positioned next
