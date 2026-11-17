@@ -24,6 +24,7 @@ Workshop-Slides/
 │   ├── education/
 │   │   ├── personal-education/        # Slides from my personal YouTube videos on AI and agents
 │   │   │   ├── README.md
+│   │   │   ├── coding-agents-how-they-work.pdf
 │   │   │   ├── Education-Series-2- from-prompt-to-agent.pdf
 │   │   │   └── prompt_to_graph_engineering.pdf
 │   │   └── quantitative-analyst-course/   # Course I built for Gies MSBA students: AI, ML & Financial Markets
@@ -135,6 +136,7 @@ A nine-session workshop series taught for the Gies MSBA program, taking students
 ### Personal Education — AI Engineering Series (2026)
 Slides from my personal YouTube videos sharing education on AI and agents. [Watch on YouTube](https://www.youtube.com/watch?v=xTCEF4jJhNs) · [folder README](./AI/education/personal-education/README.md)
 
+- [`coding-agents-how-they-work.pdf`](./AI/education/personal-education/coding-agents-how-they-work.pdf) · 70 slides — **Coding Agents**: how they work, why they work, and how they differ — the loop inside every coding agent, the harness and sandbox around it, and a comparison of the main products.
 - [`prompt_to_graph_engineering.pdf`](./AI/education/personal-education/prompt_to_graph_engineering.pdf) · 48 slides — **From Prompt to Graph**: the five layers wrapped around the model (prompt, context, harness, loop, graph) and why each one had to exist.
 - [`Education-Series-2- from-prompt-to-agent.pdf`](./AI/education/personal-education/Education-Series-2-%20from-prompt-to-agent.pdf) · 41 slides — **From Prompt to Agent**: the same five layers taught through one business case, a small e-commerce team building a support agent week by week.
 
