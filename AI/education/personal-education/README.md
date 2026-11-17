@@ -4,9 +4,10 @@ Slides from my **personal YouTube videos**, where I share educational content on
 
 ---
 
-## Video
+## Videos
 
-- [Watch on YouTube](https://www.youtube.com/watch?v=xTCEF4jJhNs)
+- [From Prompt to Graph](https://www.youtube.com/watch?v=xTCEF4jJhNs)
+- [Intro to Coding Agents](https://www.youtube.com/watch?v=D5-rEqr8ogk)
 
 ---
 

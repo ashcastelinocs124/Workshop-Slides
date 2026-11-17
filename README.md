@@ -134,7 +134,7 @@ A nine-session workshop series taught for the Gies MSBA program, taking students
 **Videos:** [Recording 1](https://www.youtube.com/watch?v=6wJaIfLtamU) · [Recording 2](https://www.youtube.com/watch?v=70fGo-DmbZE) · [Recording 3](https://www.youtube.com/watch?v=TuWWd335S1c)
 
 ### Personal Education — AI Engineering Series (2026)
-Slides from my personal YouTube videos sharing education on AI and agents. [Watch on YouTube](https://www.youtube.com/watch?v=xTCEF4jJhNs) · [folder README](./AI/education/personal-education/README.md)
+Slides from my personal YouTube videos sharing education on AI and agents. Videos: [From Prompt to Graph](https://www.youtube.com/watch?v=xTCEF4jJhNs) · [Intro to Coding Agents](https://www.youtube.com/watch?v=D5-rEqr8ogk) · [folder README](./AI/education/personal-education/README.md)
 
 - [`coding-agents-how-they-work.pdf`](./AI/education/personal-education/coding-agents-how-they-work.pdf) · 70 slides — **Coding Agents**: how they work, why they work, and how they differ — the loop inside every coding agent, the harness and sandbox around it, and a comparison of the main products.
 - [`prompt_to_graph_engineering.pdf`](./AI/education/personal-education/prompt_to_graph_engineering.pdf) · 48 slides — **From Prompt to Graph**: the five layers wrapped around the model (prompt, context, harness, loop, graph) and why each one had to exist.
